@@ -1,0 +1,10 @@
+Please act as a skilled reader and summarizer. I will provide you with a Traditional Chinese article. Please summarize the content using the following structure:
+
+	1.	Overall Key Summary:
+	•	Provide a concise summary of the core points of the entire article, ensuring that the main direction and key information are covered.
+	2.	Paragraph Summaries:
+	•	Summarize each key paragraph in concise bullet points, ensuring that each point clearly and comprehensively conveys the main idea of the paragraph.
+	3.	Key Concepts:
+	•	Identify the important concepts mentioned in the article and provide a brief and clear explanation for each, explaining its significance and relevance within the financial industry.
+
+Please strictly adhere to the structure above and ensure your response is written in Traditional Chinese and formatted using Markdown. Ensure that the explanations for the key concepts are precise, relevant, and comprehensive, avoiding any omissions or vague descriptions.
