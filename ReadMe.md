@@ -1,9 +1,10 @@
 # Read Me
 您好，我是熊崇安。 
 
-關於作業第二題，我實作了兩個方案。  
-方案一對應的檔案是 `web_crawler.py`  
-方案二對應的檔案是 `chatgpt_api_summary.py` 
+關於作業第二題，我實作了兩個方案，  
+方案一對應的檔案是 `web_crawler.py`，  
+方案二對應的檔案是 `chatgpt_api_summary.py`， 
+並且在方案二中使用的文檔來自 web_crawler.py 的執行結果。
 
 `API Key 的部分再請您貼至 config.yaml 中的 api_key 欄位。`  
 
